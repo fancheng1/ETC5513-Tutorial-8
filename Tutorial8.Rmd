@@ -1,8 +1,8 @@
 ---
 title: "Corona Virus Report"
 author:
-- familyname: XXXX
-  othernames: XXX
+- familyname: Cheng
+  othernames: Fan
   address: Monash Universtidy
   email: XXX
   correspondingauthor: true
@@ -11,6 +11,12 @@ author:
   othernames: Reports
   address: XXX
   qualifications: XXX
+- familyname: XXX
+  othernames: XXX
+  address: XXX
+  email: XXX
+  correspondingauthor: true
+  qualifications:  XXX
 - familyname: XXX
   othernames: XXX
   address: XXX
@@ -58,7 +64,7 @@ Reference Figure 1 and Table 1
 
 Add a paper reference
 
-
+@cleveland1990stl
 
 \section*{Country XX2 and YY2}
 
